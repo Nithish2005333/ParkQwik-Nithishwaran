@@ -20,7 +20,7 @@ const Navbar = () => {
       <div className="max-w-screen-xl mx-auto px-4 flex items-center justify-between h-20">
         {/* Logo */}
         <div className="flex items-center gap-2">
-          <img src="/logo.png" alt="Park Qwik Logo" className="h-18 w-36" />
+          <img src="/logo1.png" alt="Park Qwik Logo" className="h-18 w-36" />
         </div>
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-8 text- font-medium text-gray-700">
